@@ -4,6 +4,12 @@
     padding: 0px;
     box-sizing: border-box;
 }
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    background-color: black;
+    color: white;
+} 
 
 #responsivemobile {
     display: none;
@@ -15,12 +21,7 @@
     display: none;
 }
  
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 400;
-    background-color: black;
-    color: white;
-}
+
 a{
     color: #ffffff;
     text-decoration: none;
