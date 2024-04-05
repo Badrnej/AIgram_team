@@ -1,0 +1,230 @@
+
+@media (max-width: 768px) {
+  #m1 {
+    display: none;
+  }
+  #d {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  #d1 {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+  }
+  .contenare {
+    padding: 0;
+    flex-direction: column;
+  }
+  .section_menu {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    border-right: none;
+    margin-left: 0;
+    display: flex;
+    justify-content: flex-end;
+    z-index: 1;
+  }
+  .section_menu #m1 {
+    flex-direction: row;
+    justify-content: space-around;
+    padding-bottom: 15px;
+  }
+  .section_menu #m1 a {
+    font-size: 20px;
+    margin: 0;
+  }
+  .section_menu #m1 #d {
+    display: none;
+  }
+  .section_menu #d2 {
+    display: none;
+  }
+  .section_main {
+    margin-left: 0;
+    padding-top: 0;
+  }
+  #s1 {
+    display: block;
+    border-spacing: 10px;
+  }
+  #s1 > a {
+    display: table-cell;
+    padding: 5px 10px;
+  }
+  #s1 > i {
+    display: none;
+  }
+  .content_main {
+    width: 100%;
+  }
+  #s2 {
+    display: none;
+  }
+  #header img {
+    width: 75px;
+    height: 75px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+  #imo {
+    position: absolute;
+    margin-top: 130px;
+    left: 0;
+  }
+  #plus {
+    position: absolute;
+  }
+  #plus div {
+    width: 50px;
+    height: 50px;
+  }
+  #plus div span {
+    font-size: 40px;
+  }
+  #colon1 {
+    width: 100%;
+    height: 148px;
+    margin: 8px;
+    flex-direction: unset;
+    border-bottom: 1px solid #535050;
+    margin-top: 36px;
+  }
+  #colon1 > span {
+    width: 60px;
+    text-align: center;
+    margin-top: 80px;
+    left: 15px;
+  }
+  .body {
+    justify-content: baseline;
+  }
+  .section_footer {
+    display: none;
+  }
+  #s3 {
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 33.3333333333%;
+  }
+  #s3 > div.s32 {
+    color: gray;
+    font-size: 14px;
+  }
+  #s3 > div.s31 {
+    font-size: 15px;
+  }
+  .s31 span {
+    margin: 55px;
+  }
+  .s32 span {
+    margin: 40px;
+  }
+  .header1 {
+    background-color: #0e0e0e;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+  }
+  #responsivemobile {
+    display: flex;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: space-between;
+    background-color: #000000;
+    border-bottom: 1px solid #424242;
+  }
+  #colon2 {
+    justify-content: space-between;
+    border-top: 1px solid #424242;
+  }
+  #colon2 div {
+    margin-left: 0;
+  }
+  #colon2 > div.colon3_d2 {
+    width: 33.3333333333%;
+    justify-content: center;
+    color: #21ccf5;
+  }
+  #colon2 > div.colon3_d2 > span {
+    display: none;
+  }
+  #colon2 > div.colon3_d3 {
+    width: 33.3333333333%;
+    justify-content: center;
+    color: #21ccf5;
+  }
+  #colon2 > div.colon3_d3 > span {
+    display: none;
+  }
+  #colon2 > div.actev.colon3_d1 {
+    width: 33.3333333333%;
+    justify-content: center;
+    color: #21ccf5;
+  }
+  #colon2 > div.actev.colon3_d1 > span {
+    display: none;
+  }
+  #m3 {
+    width: 100%;
+    background-color: black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-end;
+    align-items: center;
+  }
+  #m3 div {
+    display: contents;
+    color: #969696;
+    white-space: nowrap;
+    overflow-x: auto;
+    position: sticky;
+    bottom: 0;
+  }
+  #m3 div span {
+    display: none;
+  }
+  #m3 div img {
+    width: 20px;
+    height: 20px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    border-radius: 50%;
+    margin-top: 5px;
+  }
+  .icone1 {
+    font-size: 20px;
+    margin: 5px;
+  }
+  .icone2 {
+    font-size: 20px;
+    margin: 5px;
+  }
+  .icone3 {
+    font-size: 20px;
+    margin: 5px;
+  }
+  .icone4 {
+    font-size: 20px;
+    margin: 5px;
+  }
+  .icone5 {
+    font-size: 20px;
+    margin: 5px;
+  }
+}/*# sourceMappingURL=main.css.map */
