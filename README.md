@@ -1,4 +1,4 @@
-I-magination
+II-magination
 
 
 
@@ -116,28 +116,21 @@ Implementation of a dynamic light/dark mode that automatically adapts to the use
 
 - Code Quality:
 
-  - Clean and well-commented code.
+- Clean and well-commented code.
+- Compliance with development best practices (W3C web standards).
 
-    - Compliance with development best practices (W3C web standards).
+- Functionality and Performance:
+    - Website accessible and functional on all devices.
+    - Fluid and adaptive design (responsive).
+    - Images and text readable and well-sized.
 
-    - Functionality and Performance:
+- Intuitive and User-friendly Design:
+    - Clear interface, easy to use and navigate.
 
-      - Website accessible and functional on all devices.
+- Deadline Compliance:
+    - Delivery respecting deadlines and sprints.
 
-        - Fluid and adaptive design (responsive).
-
-          - Images and text readable and well-sized.
-
-          - Intuitive and User-friendly Design:
-
-            - Clear interface, easy to use and navigate.
-
-            - Deadline Compliance:
-
-              - Delivery respecting deadlines and sprints.
-
-              - Originality and Creativity:
-
-                - Original approach in design and implementation.
+- Originality and Creativity:
+    - Original approach in design and implementation.
 
 
